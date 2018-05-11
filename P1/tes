@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> test </title>
+</head>
+<body>
+
+<p align='center'>Tag paragraph <p> berfungsi layaknya pengaturan antar paragraph dalam halaman web anda. Dalam elemen paragraph memiliki atribut yang dapat digunakan untuk pengaturan peraatan penulisan yakni align: [left | center | right]. Untuk valuenya cukup dipilih salah satu dari ketiga opsi tersebut. Contoh penggunaan tag paragraph:</p>
+
+</body>
+</html>
